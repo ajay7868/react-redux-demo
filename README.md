@@ -1,5 +1,3 @@
-# Starter Kit for [Building Applications in React and Redux](http://www.pluralsight.com/author/cory-house) on Pluralsight
-
 ## Get Started
 
 1. **Install [Node> 8](https://nodejs.org)** or newer. Need to run multiple versions of Node
